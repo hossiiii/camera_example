@@ -20,7 +20,7 @@ class MyApp extends StatelessWidget {
   }
 }
 
-// Stateを持つWidgetオブジェクト
+// Stateを持つWidgetオブジェクトです
 class MyHomePage extends StatefulWidget {
   @override
   _MyHomePageState createState() => _MyHomePageState();
